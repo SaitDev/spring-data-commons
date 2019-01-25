@@ -8,6 +8,7 @@ env:
     - PROFILE=ci
     - PROFILE=spring52-next
     - PROFILE=querydsl-next
+    - PROFILE=vavr1
 
 cache:
   directories:
