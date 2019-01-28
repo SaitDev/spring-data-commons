@@ -409,7 +409,7 @@
 				</plugins>
 			</build>
 		</profile>
-		
+
 		<profile>
 			<id>release</id>
 			<build>
@@ -426,7 +426,7 @@
 		<profile>
 			<id>vavr1</id>
 			<properties>
-				<vavr>1.0.0-SNAPSHOT</vavr>
+				<vavr>0.10.1-SNAPSHOT</vavr>
 			</properties>
 			<repositories>
 				<repository>
